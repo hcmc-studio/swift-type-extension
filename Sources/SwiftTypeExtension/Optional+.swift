@@ -5,8 +5,6 @@
 //  Created by Ji-Hwan Kim on 10/15/23.
 //
 
-import Foundation
-
 extension Optional {
     public func describe() -> String {
         if let self = self {
